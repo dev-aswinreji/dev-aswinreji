@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![<aswinrejidev>'s Stats](https://github-readme-stats.vercel.app/api?username=aswinrejidev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=aswinrejidev)](https://git.io/streak-stats)
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Nodejs ExpressJs Embedded Js and TypeScript 
