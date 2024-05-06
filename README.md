@@ -1,8 +1,8 @@
 ### Hi there 👋
 
+![<aswinrejidev>'s Stats](https://github-readme-stats.vercel.app/api?aswinrejidev=<aswinrejidev>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **aswinrejidev/aswinrejidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![<aswinrejidev>'s Stats](https://github-readme-stats.vercel.app/api?aswinrejidev=<aswinrejidev>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Here are some ideas to get you started:
 
