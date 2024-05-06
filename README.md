@@ -12,5 +12,4 @@
 - 📫 How to reach me: email -: aswinreji.004@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ${aswinrejidev}.${BuzzBrewsAndChills}
-https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
+
