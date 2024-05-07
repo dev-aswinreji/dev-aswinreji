@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: email -: aswinreji.004@gmail.com
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=BuzzBrewsAndChills" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=dev-aswinreji" alt="visitor badge"/>
                      ![<Aswin Reji>'s Stats](https://github-readme-stats.vercel.app/api?username=dev-aswinreji&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dev-aswinreji)](https://git.io/streak-stats) \
