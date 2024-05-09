@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Nodejs ExpressJs Embedded Js and TypeScript 
 
-- 📫 How to reach me: email -: aswinreji.004@gmail.com \
+- 📫 How to reach me: email -: aswinreji.004@gmail.com 
   
 ![<Aswin Reji>'s Stats](https://github-readme-stats.vercel.app/api?username=dev-aswinreji&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
