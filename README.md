@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Nodejs ExpressJs Embedded Js and TypeScript 
+- 🌱 I’m currently learning Nodejs ExpressJs Embedded Js and TypeScript
+- 
 
 - 📫 How to reach me: email -: aswinreji.004@gmail.com
   
