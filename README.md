@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋
 
 - 🌱 I’m currently learning Nodejs ExpressJs Embedded Js JavaScript and TypeScript
 -     
@@ -13,5 +13,5 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->. 
+- ⚡ Fun fact: ...-->
 
