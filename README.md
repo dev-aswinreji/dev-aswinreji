@@ -1,7 +1,6 @@
 ### Hi there 👋
 Learning new stuff
 
-
 - 🌱 I’m currently learning Nodejs ExpressJs Embedded Js MongoDB React Postgres gRPC NextJS JavaScript and TypeScript   
 
 - 📫 How to reach me: email -: aswinreji.004@gmail.com
