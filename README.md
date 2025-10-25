@@ -39,4 +39,4 @@ I'm Aswin Reji, a passionate developer with a knack for building innovative appl
 Check back soon for my latest articles and tutorials!
 
 ## Connect with Me
-- Linkedin [Linkedin](https://linkedin.com/in/dev-aswireji)
+- [Linkedin](https://linkedin.com/in/dev-aswireji)
