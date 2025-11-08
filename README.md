@@ -9,10 +9,6 @@
 I'm Aswin Reji, a passionate developer with a knack for building innovative applications! 🚀
  I have experience in JavaScript, TypeScript, and various frameworks. I love tackling challenges and learning new technologies to enhance my skill set!
 
-## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=&perline=8)](https://skillicons.dev)
-
 ## Top Projects
 
 
