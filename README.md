@@ -15,8 +15,6 @@ I'm Aswin Reji, a passionate developer with a knack for building innovative appl
 
 
 
-
-
 ## GitHub Stats
 🔭 **Public Repositories:** 58  
 👥 **Followers:** 25  
