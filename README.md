@@ -9,11 +9,6 @@
 I'm Aswin Reji, a passionate developer with a knack for building innovative applications! 🚀
  I have experience in JavaScript, TypeScript, and various frameworks. I love tackling challenges and learning new technologies to enhance my skill set!
 
-## Top Projects
-
-
-
-
 
 ## GitHub Stats
 🔭 **Public Repositories:** 58  
