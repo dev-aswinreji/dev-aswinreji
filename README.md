@@ -13,7 +13,7 @@ I'm Aswin Reji, a passionate developer with a knack for building innovative appl
 ## GitHub Stats
 🔭 **Public Repositories:** 58  
 👥 **Followers:** 25  
-👤 **Following:** 48  
+👤 **Following:** 48   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-aswinreji&show_icons=true&hide_title=true&count_private=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-aswinreji&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
