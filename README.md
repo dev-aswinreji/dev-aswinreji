@@ -23,9 +23,6 @@ I'm Aswin Reji, a passionate developer with a knack for building innovative appl
 - Updated the [Online Compiler Frontend](https://github.com/dev-aswinreji/online-compiler-frontend) on **October 25, 2025**.
 - Created new branch for [Online Compiler](https://github.com/dev-aswinreji/online-compiler) on **October 25, 2025**.
 
-## Latest Blog Posts
-
-Check back soon for my latest articles and tutorials!
 
 ## Connect with Me
 - [Linkedin](https://linkedin.com/in/dev-aswireji)
