@@ -9,11 +9,5 @@
 I'm Aswin Reji, a passionate developer with a knack for building innovative applications! 🚀
  I have experience in JavaScript, TypeScript, and various frameworks. I love tackling challenges and learning new technologies to enhance my skill set!
 
-## Recent Activity
-
-- Pushed updates to [Online Compiler](https://github.com/dev-aswinreji/online-compiler) on **October 25, 2025**.
-- Updated the [Online Compiler Frontend](https://github.com/dev-aswinreji/online-compiler-frontend) on **October 25, 2025**.
-- Created new branch for [Online Compiler](https://github.com/dev-aswinreji/online-compiler) on **October 25, 2025**.
-
 ## Connect with Me
 - [Linkedin](https://linkedin.com/in/dev-aswireji)
